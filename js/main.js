@@ -29,7 +29,7 @@ var writeBerryInfo = function (berry) {
     document.write('<dt>Full Name</dt>');
     document.write('<dd>' + berry.fullName + '</dd>');
     document.write('<dt>Grows On Shrubs</dt>');
-    document.write('<dd>' + berry.growsOnShrubs + '</dd>')
+    document.write('<dd>' + berry.growsOnShrubs + '</dd>');
     document.write('<dt>Energy</dt>');
     document.write('<dd>' + berry.energy + '</dd>');
     document.write('<dt>Carbs</dt>');
